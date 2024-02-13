@@ -1,0 +1,17 @@
+{
+  "name": "sleep-tracking-app",
+  "version": "1.0.0",
+  "description": "An app that tracks sleep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jobin",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
